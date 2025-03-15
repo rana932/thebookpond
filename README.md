@@ -17,7 +17,7 @@ Technologies Used:
 
 Installation:
 1. Clone this repository to your local machine using the following command:
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/rana932/thebookpond.git
 2. Open the `index.html` file in any browser to start exploring the website.
 
 Contributing:
